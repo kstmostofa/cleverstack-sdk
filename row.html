@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="dialer"
+        data-props='{"apiKey": "d94861f8ea2b7eca", "user_id": "155", "authAPI": "https://dev-authapi.cleverstack.in"}'>
+    </div>
+    <script src="/app.js"></script>
+    <script>
+
+        (function(d,t) {
+          var BASE_URL="https://chat.mostofa.me";
+          var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+          g.src=BASE_URL+"/packs/js/sdk.js";
+          g.defer = true;
+          g.async = true;
+          s.parentNode.insertBefore(g,s);
+          g.onload=function(){
+            window.chatwootSDK.run({
+              websiteToken: 'jxMBry8yvoQhvYg5T7HXk25x',
+              baseUrl: BASE_URL
+            })
+          }
+        })(document,"script");
+      </script>
+
+</body>
+</html>
