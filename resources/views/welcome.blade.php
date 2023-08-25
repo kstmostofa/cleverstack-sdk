@@ -26,7 +26,7 @@
 
     <script>
         (function(d, t) {
-            var SRC_FILE = "http://127.0.0.1:8001/js/app.js";
+            var SRC_FILE = "http://127.0.0.1:8000/js/app.js";
             var g = d.createElement(t),
                 s = d.getElementsByTagName(t)[0];
             g.src = SRC_FILE;
