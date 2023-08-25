@@ -4227,10 +4227,10 @@
   "resolved" "https://registry.npmjs.org/crypto-random-string/-/crypto-random-string-2.0.0.tgz"
   "version" "2.0.0"
 
-"csdialler@^1.0.47":
-  "integrity" "sha512-+N46WB5tRHYsfkb8Hlr3EAKaRwr3ty95dhOq63w1xu9iI5/a9ivgOrtd3twDjWqsSz//0d+fqzh/5K1SIIlhhw=="
-  "resolved" "https://registry.npmjs.org/csdialler/-/csdialler-1.0.47.tgz"
-  "version" "1.0.47"
+"csdialler@^1.0.48":
+  "integrity" "sha512-ibMysHn3Ab1YT4YkiN8pFiJwTZG0MWzFkv3gyijDSV0ou92JCV3TRq3wlyP26C3zYpIe4ocihH3RBHrrFqf7Zw=="
+  "resolved" "https://registry.npmjs.org/csdialler/-/csdialler-1.0.48.tgz"
+  "version" "1.0.48"
   dependencies:
     "lodash.omit" "^4.5.0"
     "moment" "^2.29.4"
@@ -11065,9 +11065,9 @@
     "is-typedarray" "^1.0.0"
 
 "typescript@^3.2.1 || ^4", "typescript@>= 2.7", "typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta":
-  "integrity" "sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-5.1.6.tgz"
-  "version" "5.1.6"
+  "integrity" "sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.9.5.tgz"
+  "version" "4.9.5"
 
 "unbox-primitive@^1.0.2":
   "integrity" "sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw=="

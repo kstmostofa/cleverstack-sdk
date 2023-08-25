@@ -28,7 +28,7 @@
         "@emotion/styled": "^11.6.0",
         "@mui/icons-material": "^5.14.3",
         "axios": "^1.4.0",
-        "csdialler": "^1.0.47",
+        "csdialler": "^1.0.48",
         "react-devtools": "^4.27.8"
     }
 }
