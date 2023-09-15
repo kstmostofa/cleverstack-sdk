@@ -26,7 +26,7 @@
 
     <script>
         (function(d, t) {
-            var SRC_FILE = "https://cdn.jsdelivr.net/gh/kstmostofa/cleverstack-sdk@main/public/js/app.js";
+            var SRC_FILE = "https://cdn.jsdelivr.net/gh/kstmostofa/cleverstack-sdk@main/public/sdk/app.js";
             var g = d.createElement(t),
                 s = d.getElementsByTagName(t)[0];
             g.src = SRC_FILE;
