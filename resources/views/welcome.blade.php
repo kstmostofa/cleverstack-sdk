@@ -13,11 +13,11 @@
 </head>
 
 <body class="antialiased">
-    {{-- <script src="https://cdn.jsdelivr.net/gh/kstmostofa/cleverstack-sdk@main/app.js" defer></script> --}}
-    {{-- <script>
+    {{-- <script src="/js/app.js" defer async></script>
+    <script>
         window.CleverStack = {
             api: '0c31f913e24067a4',
-            user_id: '63',
+            user_id: '243',
             authAPI: 'https://dev-api.cleverstack.in',
             open: false,
             env: 'dev'
@@ -26,7 +26,7 @@
 
     <script>
         (function(d, t) {
-            var SRC_FILE = "http://127.0.0.1:8000/js/app.js";
+            var SRC_FILE = "/js/app.js";
             var g = d.createElement(t),
                 s = d.getElementsByTagName(t)[0];
             g.src = SRC_FILE;
@@ -35,7 +35,7 @@
             s.parentNode.insertBefore(g, s);
             window.CleverStack = {
                 api: '0c31f913e24067a4',
-                user_id: '63',
+                user_id: '243',
                 authAPI: 'https://dev-api.cleverstack.in',
                 open: false,
                 env: 'dev'
