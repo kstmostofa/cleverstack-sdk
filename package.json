@@ -31,7 +31,7 @@
         "@mui/material": "^5.14.9",
         "@mui/system": "^5.14.9",
         "axios": "^1.4.0",
-        "csdialler": "^1.0.51",
+        "csdialler": "^1.0.54",
         "react-devtools": "^4.27.8"
     }
 }

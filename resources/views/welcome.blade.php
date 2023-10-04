@@ -26,7 +26,7 @@
 
     <script>
         (function(d, t) {
-            var SRC_FILE = "https://cdn.jsdelivr.net/gh/kstmostofa/cleverstack-sdk@main/public/sdk/app.js";
+            var SRC_FILE = "/sdk/app.js";
             var g = d.createElement(t),
                 s = d.getElementsByTagName(t)[0];
             g.src = SRC_FILE;
@@ -34,11 +34,13 @@
             g.async = true;
             s.parentNode.insertBefore(g, s);
             window.CleverStack = {
-                api: '0c31f913e24067a4',
-                user_id: '243',
-                authAPI: 'https://dev-api.cleverstack.in',
+                api: 'c82677ed89ede671',
+                user_id: '121',
+                authAPI: 'https://api.cleverstack.in',
                 open: false,
-                env: 'dev'
+                env: 'prod',
+                // wssServerEnv: 'prod'
+
             };
         })(document, "script");
     </script>
